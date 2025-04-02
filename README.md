@@ -37,3 +37,4 @@ The Personal Budget App is a user-friendly budgeting tool designed to help you t
 
 This project is open-source under the MIT License.
 
+## Author: Masud2400
